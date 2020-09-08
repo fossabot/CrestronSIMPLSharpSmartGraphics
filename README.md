@@ -1,4 +1,6 @@
 # CrestronSIMPLSharpSmartGraphics
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FCrestronSIMPLSharpSmartGraphics.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FCrestronSIMPLSharpSmartGraphics?ref=badge_shield)
+
 Crestron SIMPLSharp Pro Smart Graphics demo program
 
 ## Synopsis
@@ -44,3 +46,6 @@ Rod Driscoll: rdriscoll@avplus.net.au
 ## License
 
 MIT License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FCrestronSIMPLSharpSmartGraphics.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FCrestronSIMPLSharpSmartGraphics?ref=badge_large)
